@@ -1,0 +1,7 @@
+com\example\Messages$ComputeSum.class
+com\example\SupervisorActor.class
+com\example\Function.class
+com\example\Messages.class
+com\example\Messages$ProcessNumbers.class
+com\example\Messages$SumResult.class
+com\example\WorkerActor.class
